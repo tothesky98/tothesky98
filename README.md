@@ -10,9 +10,9 @@
 tothesky98/tothesky98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-TRON:  
+TRON:  TBGpTwMkvV27Aft8fmmAg5gkivtnc87915
 
 
-Bep: 
+Bep: 0x4F9B96Fc76Af4E38980ccA8AF69E97272F4FAC94
 
 

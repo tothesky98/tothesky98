@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 ERC-20: 0x411CD37AF430505CF9058FBAAdCf12B3156D2c9C
 
-Bep-20:0x681EC39c6034c03Af14ed7f67b1B7d999710f9e1
+Bep-20: 0x681EC39c6034c03Af14ed7f67b1B7d999710f9e1
 
 
